@@ -1,7 +1,5 @@
-# Tizhoo Panel
-
-dependasis :
-  "@emotion/react": "^11.11.3",
+# dependency Project
+    "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
     "@grapecity/activereports-react": "^4.2.2",
     "@mui/material": "^5.15.7",
